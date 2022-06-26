@@ -14,3 +14,5 @@ https://betterprogramming.pub/differences-between-git-merge-and-rebase-and-why-y
 <div align="center">
 		<img class=logo align=bottom width="80%" height="80%" src="https://github.com/shpweb/GIT-KB/blob/main/Screenshot%202022-06-27%20at%2012.19.09%20AM.png?raw=true" />
 </div>
+
+Reference: https://www.edureka.co/blog/git-rebase-vs-merge/
