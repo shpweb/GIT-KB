@@ -1,7 +1,7 @@
 
 <h1 align="center">How Git Merge and Git Rebase Differ</h1>
 <div align="center">
-		<img class=logo align=bottom width="25%" height="95%" src="https://github.com/jaydeepc/talisman-html-report/raw/master/img/talisman.png" />
+		<img class=logo align=bottom width="25%" height="95%" src="https://github.com/shpweb/GIT-KB/blob/main/MergeVsRebase%20copy.png?raw=true" />
 </div>
 
 <p align="center">Git Merge vs Git Rebasein</p>
