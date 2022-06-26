@@ -8,3 +8,9 @@
 
 Reference:
 https://betterprogramming.pub/differences-between-git-merge-and-rebase-and-why-you-should-care-ae41d96237b6
+
+
+
+<div align="center">
+		<img class=logo align=bottom width="80%" height="80%" src="https://github.com/shpweb/GIT-KB/blob/main/Screenshot%202022-06-27%20at%2012.19.09%20AM.png?raw=true" />
+</div>
