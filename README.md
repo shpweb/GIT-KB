@@ -1,5 +1,5 @@
-# GIT-KB
-### Knowledge Base for GIT (Version Control System)
+# GitHub -KB
+### Knowledge Base for GitHub
 
-
-[Basic writing and formating tips on GitHub browser](url)
+* [git base vs git merge](doc/MergeVsRebase.md)
+* [Basic writing and formating tips on GitHub browser](url)
