@@ -2,4 +2,4 @@
 ### Knowledge Base for GIT (Version Control System)
 
 
-[Basic writing and formating tips on GitHub browser(url)]
+[Basic writing and formating tips on GitHub browser](url)
